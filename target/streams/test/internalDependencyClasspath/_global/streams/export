@@ -1,1 +1,1 @@
-C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\scala-2.13\classes;C:\Users\pavan\Desktop\Skechers\GitHub Actions\gha-fargate-poc\target\web\classes\main
+/home/ec2-user/ecs-cron-fargate-alb/target/scala-2.13/classes:/home/ec2-user/ecs-cron-fargate-alb/target/web/classes/main

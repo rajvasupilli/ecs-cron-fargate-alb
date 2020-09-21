@@ -44,8 +44,8 @@ Seq[Any](format.raw/*1.4*/("""
 
               /*
                   -- GENERATED --
-                  DATE: 2020-07-26T21:33:33.270
-                  SOURCE: C:/Users/pavan/Desktop/Skechers/GitHub Actions/gha-fargate-poc/app/views/index.scala.html
+                  DATE: 2020-09-21T17:44:20.963
+                  SOURCE: /home/ec2-user/ecs-cron-fargate-alb/app/views/index.scala.html
                   HASH: 571f46e69b9fc543f88ebd186b26f7e5e7a0cd9c
                   MATRIX: 722->1|818->3|848->8|879->31|918->33|948->37|1005->65
                   LINES: 21->1|26->1|28->3|28->3|28->3|29->4|30->5

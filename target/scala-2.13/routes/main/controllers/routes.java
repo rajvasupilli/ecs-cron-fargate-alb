@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
-// @SOURCE:C:/Users/pavan/Desktop/Skechers/GitHub Actions/gha-fargate-poc/conf/routes
-// @DATE:Sun Jul 26 21:33:33 PDT 2020
+// @SOURCE:/home/ec2-user/ecs-cron-fargate-alb/conf/routes
+// @DATE:Mon Sep 21 17:44:20 UTC 2020
 
 package controllers;
 
